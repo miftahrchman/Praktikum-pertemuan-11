@@ -1,0 +1,17 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/user/Documents/kuliah upb/Sem 3/Program Komputer/Pertemuan 11/Praktikum pertemuan 11.py 
+Data mahasiswa Miftah berhasil ditambahkan.
+Data mahasiswa Ical berhasil ditambahkan.
+Daftar Nilai Mahasiswa:
+Nama: Miftah, Nilai: 85
+Nama: Ical, Nilai: 90
+Data mahasiswa Miftah berhasil diubah.
+Daftar Nilai Mahasiswa:
+Nama: Miftah, Nilai: 95
+Nama: Ical, Nilai: 90
+Data mahasiswa Ical berhasil dihapus.
+Daftar Nilai Mahasiswa:
+Nama: Miftah, Nilai: 95
+>>> 
